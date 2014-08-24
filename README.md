@@ -1,0 +1,1 @@
+Gollum app with Omniauth using Ruby 1.9.3-p327 app 
